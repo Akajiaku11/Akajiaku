@@ -1,43 +1,82 @@
-<h1 align="center">Hi 👋, I'm Eteh, Desmond Rowland</h1>
-<h3 align="center">A passionate Data Scientist/ Geospatial Analysts</h3>
+<h1 align="center">👋 Hi, I'm Eteh, Desmond Rowland!</h1>
+<h3 align="center">🌟 A Passionate Data Scientist & Geospatial Analyst 🌍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eteh1&label=Profile%20views&color=0e75b6&style=flat" alt="eteh1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eteh1" alt="eteh1" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Leveraging Data and Visualization](https://github.com/eteh1/Leveraging-Data-and-Visualization-to-Understand-the-2024-Brazil-Floods)
-
-- 🌱 I’m currently learning **Deep learning with ArcGIS, TensorFlow + geospatial data (Earth Engine)**
-
-- 👯 I’m looking to collaborate on [Flood Mapping and Monitoring in Niger Delta Nigeria](https://github.com/eteh1/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)
-
-- 🤝 I’m looking for help with [Air Quality Prediction Model](https://github.com/eteh1/Air-Quality-Prediction-Model)
-
-- 👨‍💻 All of my projects are available at [https://github.com/eteh1](https://github.com/eteh1)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/desmond-eteh](https://www.linkedin.com/in/desmond-eteh)
-
-- 💬 Ask me about **Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, Jupyter Notebooks, Google Colab**
-
-- 📫 How to reach me **desmondeteh@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/desmond-eteh](https://www.linkedin.com/in/desmond-eteh)
-
-- ⚡ Fun fact **data scientist-geospatial analyst is like a digital explorer—predicting trends by day and mapping the Earth's secrets by night! 🌍📊**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/desmond-eteh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="desmond-eteh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/etehinnovative" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="etehinnovative" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eteh1&label=Profile%20views&color=blueviolet&style=flat" alt="eteh1" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eteh1&show_icons=true&locale=en&layout=compact" alt="eteh1" /></p>
+### 🚀 About Me  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eteh1&show_icons=true&locale=en" alt="eteh1" /></p>
+- 🔭 **Currently working on**: [Leveraging Data and Visualization](https://github.com/eteh1/Leveraging-Data-and-Visualization-to-Understand-the-2024-Brazil-Floods)  
+- 🌱 **Learning**: Deep learning with ArcGIS, TensorFlow, and geospatial data (Earth Engine)  
+- 👯 **Collaborating on**: [Flood Mapping in Niger Delta Nigeria](https://github.com/eteh1/Flood-Mapping-and-Monitoring-in-Niger-Delta-Nigeria-)  
+- 🤝 **Seeking help with**: [Air Quality Prediction Model](https://github.com/eteh1/Air-Quality-Prediction-Model)  
+- 💬 **Ask me about**:  
+  ![Pandas](https://img.shields.io/badge/Pandas-%231572B6.svg?style=for-the-badge&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23DA291C.svg?style=for-the-badge&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eteh1&" alt="eteh1" /></p>
+- 📝 **Articles**: [LinkedIn Articles](https://www.linkedin.com/in/desmond-eteh)  
+- 📫 **Contact**: [desmondeteh@gmail.com](mailto:desmondeteh@gmail.com)  
+- ⚡ **Fun Fact**: A geospatial analyst is like a digital explorer—mapping Earth’s secrets by night! 🌌  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=eteh1&show_icons=true&hide_border=true&theme=radical" alt="eteh1 GitHub Stats" />
+</p>  
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eteh1&theme=radical&hide_border=true" alt="eteh1 Streak Stats" />
+</p>  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eteh1&theme=radical&layout=compact&hide_border=true" alt="eteh1 Top Languages" />
+</p>  
+
+---
+
+### 💻 Tech Stack  
+
+<p align="center">
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>  
+  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
+  <a href="https://dotnet.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="DotNet" width="40" height="40"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>  
+  <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>  
+</p>  
+
+---
+
+### 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/desmond-eteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
+  <a href="https://www.youtube.com/c/etehinnovative" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
+</p>  
+
+---
+
+### 🛠️ Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />  
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />  
+  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />  
+  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />  
+</p>  
+
+---
+
+### ⚡ Fun Extras  
+
+- 🎨 Passionate about data visualization and storytelling  
+- 🌍 Exploring geospatial trends with cutting-edge AI tools  
+- 🧑‍🔬 Bringing the real world into models one dataset at a time!  
+
+---
+
