@@ -42,6 +42,7 @@
 
 ### 💻 Tech Stack  
 
+#### Core Tools  
 <p align="center">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>  
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>  
@@ -50,24 +51,23 @@
   <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>  
 </p>  
 
+#### GIS Tools  
+<p align="center">
+  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview"><img src="https://img.icons8.com/color/452/arcgis.png" alt="ArcGIS" width="40" height="40"/></a>
+  <a href="https://earthengine.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Earth_logo.svg/1024px-Google_Earth_logo.svg.png" alt="Google Earth Engine" width="40" height="40"/></a>
+  <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/></a>
+  <a href="https://saga-gis.sourceforge.io/en/index.html"><img src="https://seeklogo.com/images/S/saga-gis-logo-0D245404F8-seeklogo.com.png" alt="SAGA GIS" width="40" height="40"/></a>
+  <a href="https://grass.osgeo.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GRASS_GIS_logo.svg/1024px-GRASS_GIS_logo.svg.png" alt="GRASS GIS" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostGIS" width="40" height="40"/></a>
+</p>  
+
 ---
 
 ### 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/desmond-eteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="[https://www.youtube.com/c/etehinnovative](https://www.youtube.com/@Etehinnovative)" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
-</p>  
-
----
-
-### 🛠️ Tools  
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />  
-  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />  
-  <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white" alt="Google Colab" />  
-  <img src="https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />  
+  <a href="https://www.youtube.com/@Etehinnovative" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
 </p>  
 
 ---
