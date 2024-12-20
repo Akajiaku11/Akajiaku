@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/desmond-eteh" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
-  <a href="https://www.youtube.com/c/etehinnovative" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
+  <a href="[https://www.youtube.com/c/etehinnovative](https://www.youtube.com/@Etehinnovative)" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>  
 </p>  
 
 ---
