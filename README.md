@@ -51,16 +51,8 @@
   <a href="https://www.chartjs.org"><img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40"/></a>  
 </p>  
 
-#### GIS Tools  
-<p align="center">
-  <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview"><img src="https://img.icons8.com/color/452/arcgis.png" alt="ArcGIS" width="40" height="40"/></a>
-  <a href="https://earthengine.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Earth_logo.svg/1024px-Google_Earth_logo.svg.png" alt="Google Earth Engine" width="40" height="40"/></a>
-  <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/></a>
-  <a href="https://saga-gis.sourceforge.io/en/index.html"><img src="https://seeklogo.com/images/S/saga-gis-logo-0D245404F8-seeklogo.com.png" alt="SAGA GIS" width="40" height="40"/></a>
-  <a href="https://grass.osgeo.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GRASS_GIS_logo.svg/1024px-GRASS_GIS_logo.svg.png" alt="GRASS GIS" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostGIS" width="40" height="40"/></a>
-</p>  
-
+🌍 GIS Tools
+<p align="center"> <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview" target="_blank"><img src="https://img.icons8.com/color/452/arcgis.png" alt="ArcGIS" width="40" height="40"/></a> <a href="https://earthengine.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Google_Earth_logo.svg/1024px-Google_Earth_logo.svg.png" alt="Google Earth Engine" width="40" height="40"/></a> <a href="https://qgis.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/QGIS_logo_new.svg/1200px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/></a> <a href="https://saga-gis.sourceforge.io/en/index.html" target="_blank"><img src="https://seeklogo.com/images/S/saga-gis-logo-0D245404F8-seeklogo.com.png" alt="SAGA GIS" width="40" height="40"/></a> <a href="https://grass.osgeo.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/GRASS_GIS_logo.svg/1024px-GRASS_GIS_logo.svg.png" alt="GRASS GIS" width="40" height="40"/></a> <a href="https://postgis.net/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="PostGIS" width="40" height="40"/></a> </p>
 ---
 
 ### 🌐 Connect with Me  
