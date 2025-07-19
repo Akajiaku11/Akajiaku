@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Eteh, Desmond Rowland!</h1>
+<h1 align="center">👋 Hi, I'm Dr. Eteh, Desmond Rowland!</h1>
 <h3 align="center">🌟 A Passionate Data Scientist & Geospatial Analyst 🌍</h3>
 
 <p align="center">
